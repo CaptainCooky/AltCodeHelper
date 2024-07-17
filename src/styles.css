@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .tabs {
+    overflow: hidden;
+    background-color: #f1f1f1;
+  }
+  
+  .tablinks {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+  }
+  
+  .tablinks:hover {
+    background-color: #ddd;
+  }
+  
+  .tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border-top: none;
+  }
+  
+  .alt-code {
+    cursor: pointer;
+    padding: 8px 0;
+  }
+  
+  .alt-code:hover {
+    background-color: #f1f1f1;
+  }
+  
+  #search {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  

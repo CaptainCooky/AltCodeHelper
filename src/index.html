@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ALT Code Tooltip</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="tabs">
+    <button class="tablinks" onclick="openTab(event, 'Common')">Common</button>
+    <button class="tablinks" onclick="openTab(event, 'All')">All</button>
+  </div>
+  <div id="Common" class="tabcontent">
+    <h3>Common ALT Codes</h3>
+    <ul>
+      <li class="alt-code">Alt+0193: Á</li>
+      <li class="alt-code">Alt+0225: á</li>
+      <!-- Add more common codes -->
+    </ul>
+  </div>
+  <div id="All" class="tabcontent">
+    <h3>All ALT Codes</h3>
+    <input type="text" id="search" onkeyup="filterList()" placeholder="Search for codes..">
+    <ul id="altList">
+      <li class="alt-code">Alt+0193: Á</li>
+      <li class="alt-code">Alt+0225: á</li>
+      <!-- Add all codes -->
+    </ul>
+  </div>
+  <script src="renderer.js"></script>
+</body>
+</html>
