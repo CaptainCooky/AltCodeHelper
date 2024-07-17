@@ -1,7 +1,3 @@
-The provided Code of Conduct is thorough and well-structured, and it can be adapted with minimal changes to fit the context of your project. Here is a tailored version for the "ALT Code Tooltip Utility" project:
-
----
-
 # Code of Conduct
 
 As a member project of the OpenJS Foundation, the ALT Code Tooltip Utility uses [Contributor Covenant v2.0](https://contributor-covenant.org/version/2/0/code_of_conduct) as our code of conduct. The full text is included [below](#contributor-covenant-code-of-conduct) in English, and translations are available from the Contributor Covenant organization:
@@ -88,7 +84,3 @@ Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcem
 [homepage]: https://www.contributor-covenant.org
 
 For answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations.
-
----
-
-This version maintains the integrity of the original document while making it relevant to your project. Adjust the contact email and any specific details to match your project's needs.
