@@ -46,7 +46,7 @@ The ALT Code Tooltip Utility is a simple and efficient tool designed to help use
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request on the [GitHub repository](https://github.com/yourusername/alt-code-tooltip-utility).
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request on the [GitHub repository](https://github.com/CaptainCooky/AltCodeTooltipUtility/tree/main).
 
 ## License
 
