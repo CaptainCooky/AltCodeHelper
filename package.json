@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/CaptainCooky/AltCodeHelper/issues"
   },
-  "homepage": "https://github.com/CaptainCooky/AltCodeHelper#readme"
+  "homepage": "https://github.com/CaptainCooky/AltCodeHelper#readme",
+  "dependencies": {
+    "electron": "^31.2.1"
+  }
 }
