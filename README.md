@@ -1,9 +1,8 @@
-
-# ALT Code Tooltip Utility
+# ALT Code Helper
 
 ## Description
 
-The ALT Code Tooltip Utility is a simple and efficient tool designed to help users quickly access and use ALT codes for special characters. This utility provides a pop-up tooltip window that appears when you press `ALT+0`, displaying a comprehensive list of ALT codes. It is designed to work seamlessly across various applications, making it easier for you to insert special characters without having to remember the codes or look them up online.
+The ALT Code Helper is a simple and efficient tool designed to help users quickly access and use ALT codes for special characters. This utility provides a pop-up tooltip window that appears when you press `ALT+0`, displaying a comprehensive list of ALT codes. It is designed to work seamlessly across various applications, making it easier for you to insert special characters without having to remember the codes or look them up online.
 
 ## Features
 
@@ -11,19 +10,21 @@ The ALT Code Tooltip Utility is a simple and efficient tool designed to help use
 - **Comprehensive List**: Contains a wide range of ALT codes for various special characters.
 - **Cross-Application Support**: Works in any application where you need to insert special characters.
 - **User-Friendly Interface**: Simple and intuitive design for ease of use.
+- **Search Functionality**: Easily search for the ALT code you need.
+- **Customizable Tabs**: Default tab for most used codes and a scrollable tab for all codes.
 
 ## Installation
 
 ### Windows
 
 1. **Download the Installer**: [Download Link]
-2. **Run the Installer**: Follow the on-screen instructions to install the ALT Code Tooltip Utility.
+2. **Run the Installer**: Follow the on-screen instructions to install the ALT Code Helper.
 3. **Launch the Utility**: After installation, the utility will run in the background and can be accessed by pressing `ALT+0`.
 
 ### macOS
 
 1. **Download the Installer**: [Download Link]
-2. **Run the Installer**: Follow the on-screen instructions to install the ALT Code Tooltip Utility.
+2. **Run the Installer**: Follow the on-screen instructions to install the ALT Code Helper.
 3. **Launch the Utility**: After installation, the utility will run in the background and can be accessed by pressing `ALT+0`.
 
 ### Linux
@@ -41,12 +42,12 @@ The ALT Code Tooltip Utility is a simple and efficient tool designed to help use
 ## Requirements
 
 - **Operating System**: Windows 10 or later, macOS 10.12 or later, Linux (Ubuntu 18.04 or later)
-- **Python**: Python 3.6 or later (for running the source code)
-- **Tkinter**: Python's standard GUI package
+- **Node.js**: Node.js 12 or later (for running the source code)
+- **Electron**: Electron framework
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request on the [GitHub repository](https://github.com/CaptainCooky/AltCodeTooltipUtility/tree/main).
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request on the [GitHub repository](https://github.com/CaptainCooky/AltCodeHelper).
 
 ## License
 
@@ -55,5 +56,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 If you have any questions or need support, please contact me via [Twitter](https://twitter.com/captainevie).
-
-
