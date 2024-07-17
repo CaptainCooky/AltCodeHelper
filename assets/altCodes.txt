@@ -1,0 +1,135 @@
+# Letters with Accents
+
+|   Accent  |   Code    |   Letter  |
+ -----------------------------------
+|   Grave   |   0192    |   À       |
+|           |   0224    |   à       |
+|           |   0200    |   È       |
+|           |   0232    |   è       |
+|           |   0204    |   Ì       |
+|           |   0236    |   ì       |
+|           |   0210    |   Ò       |
+|           |   0242    |   ò       |
+|           |   0217    |   Ù       |
+|           |   0249    |   ù       |
+ -----------------------------------
+|   Acute   |   0193    |   Á       |
+|           |   0225    |   á       |
+|           |   0201    |   É       |
+|           |   0233    |   é       |
+|           |   0205    |   Í       |
+|           |   0237    |   í       |
+|           |   0211    |   Ó       |
+|           |   0243    |   ó       |
+|           |   0218    |   Ú       |
+|           |   0250    |   ú       |
+|           |   0221    |   Ý       |
+|           |   0253    |   ý       |
+ -----------------------------------
+|   Circum- |   0194    |   Â       |
+|   flex    |   0226    |   â       |
+|           |   0202    |   Ê       |  
+|           |   0234    |   ê       |
+|           |   0206    |   Î       |
+|           |   0238    |   î       |
+|           |   0212    |   Ô       |
+|           |   0244    |   ô       |
+|           |   0219    |   Û       |
+|           |   0251    |   û       |
+ -----------------------------------
+|   Tilde   |   0195    |   Ã       |
+|           |   0227    |   ã       |
+|           |   0209    |   Ñ       |
+|           |   0241    |   ñ       |
+|           |   0213    |   Õ       |
+|           |   0245    |   õ       |
+ -----------------------------------
+|   Umlaut  |   0196    |   Ä       |
+|           |   0228    |   ä       |
+|           |   0203    |   Ë       |
+|           |   0235    |   ë       |
+|           |   0207    |   Ï       |
+|           |   0239    |   ï       |
+|           |   0214    |   Ö       |
+|           |   0246    |   ö       |
+|           |   0220    |   Ü       |
+|           |   0252    |   ü       |
+|           |   0159    |   Ÿ       |
+|           |   0255    |   ÿ       |
+ -----------------------------------
+
+# Other Non-English Characters
+
+|   Description                                         |   Code    |   Letter  |
+ -------------------------------------------------------------------------------
+|   Upside-down exclamation mark                        |   0161    |   ¡       |
+|   Upside-down question mark                           |   0191    |   ¿       |
+|   French C cedille - Upper                            |   0199    |   Ç       |
+|   French c cedille - Lower                            |   0231    |   ç       |
+|   O-E ligature - Upper                                |   0140    |   Œ       |
+|   o-e ligature - Lower                                |   0156    |   œ       |
+|   German Sharp/Double Sharp                           |   0223    |   ß       |
+|   Masculine Ordinal Number - (Esp/Ita/Port)           |   0186    |   º       |
+|   Feminine Ordinal Number - (Esp/Ita/Port)            |   0170    |   ª       |
+|   Nordic O Slash - Upper                              |   0216    |   Ø       |
+|   Nordic o Slash - Lower                              |   0248    |   ø       |
+|   Nordic A ring - Upper - Angstrom sign               |   0197    |   Å       |
+|   Nordic A ring - Lower - Angstrom sign               |   0229    |   å       |
+|   A-E ligature - Upper                                |   0198    |   Æ       |
+|   a-e ligature - Lower                                |   0230    |   æ       |
+|   Icelandic/Old English Thorn - Upper                 |   0222    |   Þ       |
+|   Icelandic/Old English Thorn - Lower                 |   0254    |   þ       |
+|   Icelandic/Old English Eth - Upper                   |   0208    |   Ð       |
+|   Icelandic/Old English Eth - Lower                   |   0240    |   ð       |
+|   Spanish/French angle quotation marks - double left  |   0171    |   «       |
+|   Spanish/French angle quotation marks - double right |   0187    |   »       |
+|   Spanish/French angle quotation marks - single left  |   0139    |   ‹       |
+|   Spanish/French angle quotation marks - single right |   0155    |   ›       |
+|   Czech S hachek (S Caron) - Upper                    |   0138    |   Š       |
+|   Czech s hachek (s Caron) - Lower                    |   0154    |   š       |
+|   Czech Z hachek (Z Caron) - Upper                    |   0142    |   Ž       |
+|   Czech z hachek (z Caron) - Lower                    |   0158    |   ž       |
+ -------------------------------------------------------------------------------
+
+# Currency Symbols
+
+|   Name            |   Code    |   Symbol  |
+ -------------------------------------------
+|   Cent sign       |   0162    |   ¢       |
+|   British Pound   |   0163    |   £       |
+|   Euro Currency   |   0128    |   €       |
+|   Japanese Yen    |   0165    |   ¥       |
+|   Dutch Florin    |   0131    |   ƒ       |
+|   Generic Currency|   0164    |   ¤       |
+ -------------------------------------------
+
+# Math Symbols
+
+|   Name                    |   Code    |   Symbol  |
+ ---------------------------------------------------
+|   Division sign           |   0247    |   ÷       |
+|   Degree Symbol           |   0176    |   °       |
+|   Not Symbol              |   0172    |   ¬       |
+|   Plus/Minus              |   0177    |   ±       |
+|   Micro                   |   0181    |   µ       |
+|   Per Mille (1/1000th)    |   0137    |   ‰       |
+|   Fraction 1/4            |   0188    |   ¼       |
+|   Fraction 1/2            |   0189    |   ½       |
+|   Fraction 3/4            |   0190    |   ¾       |
+ ---------------------------------------------------
+
+# Other Useful Symbols
+
+|   Name                        |   Code    |   Symbol  |
+ -------------------------------------------------------
+|   Copyright Symbol            |   0169    |   ©       |
+|   Registered Symbol           |   0174    |   ®       |
+|   Trademark                   |   0153    |   ™       |
+|   List Dot                    |   0149    |   •       |
+|   Section Symbol              |   0167    |   §       |
+|   Dagger                      |   0134    |   †       |
+|   Double Dagger               |   0135    |   ‡       |
+|   en-dash                     |   0150    |   –       |
+|   em-dash                     |   0151    |   —       |
+|   Paragraph Symbol (pilcrow)  |   0182    |   ¶       |
+ -------------------------------------------------------
