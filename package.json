@@ -2,6 +2,7 @@
   "name": "altcodehelper",
   "version": "0.0.1",
   "description": "The ALT Code Helper is a simple & efficient tool to help users quickly access and use ALT codes for special characters",
+  "type": "module",
   "main": "src/main.js",
   "scripts": {
     "start": "electron .",
