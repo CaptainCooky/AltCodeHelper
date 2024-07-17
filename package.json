@@ -1,0 +1,28 @@
+{
+  "name": "altcodehelper",
+  "version": "0.0.1",
+  "description": "The ALT Code Helper is a simple & efficient tool to help users quickly access and use ALT codes for special characters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaptainCooky/AltCodeHelper.git"
+  },
+  "keywords": [
+    "Helper",
+    "Utility",
+    "Text",
+    "Special",
+    "Characters",
+    "Alt",
+    "Code"
+  ],
+  "author": "CaptainCooky",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/CaptainCooky/AltCodeHelper/issues"
+  },
+  "homepage": "https://github.com/CaptainCooky/AltCodeHelper#readme"
+}
